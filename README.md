@@ -1,4 +1,4 @@
-![Header](assets/github-header-image.png)
+![Header](github-header-image.png)
 <h1 align="center">Hello 👋, I'm Asmita Chakraborty</h1>
 <h3 align="center">Build. Break. Debug. | CSBS'27, Narula Institute of Technology</h3>
 <p align="center">
